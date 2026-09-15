@@ -1,7 +1,7 @@
-name: OpenCodeReview PR Review
+name: AgentCodeReview PR Review
 description: >-
   AI-powered GitHub PR review with inline comments, sticky summary, and
-  incremental non-destructive posting.
+  incremental non-destructive posting. A fork of alibaba's open code review made to be compatible with codex or similar clients directly. 
 author: alibaba
 branding:
   icon: eye
