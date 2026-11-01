@@ -23,7 +23,7 @@ jobs:
       run:
         working-directory: extensions/vscode
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@v7.0.1
 
       - name: Trust workspace
         run: git config --global --replace-all safe.directory '*'
